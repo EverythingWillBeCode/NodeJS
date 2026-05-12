@@ -1,0 +1,1 @@
+{"name":"mi-api-tp2","version":"1.0.0","main":"server.js","scripts":{"start":"node server.js","seed":"node seeders/seeder.js"},"dependencies":{"express":"^4.18.2","sequelize":"^6.37.1","sqlite3":"^5.1.7"}}
